@@ -1,1 +1,2 @@
 # Raman-Ecommerce-Sales-Dashboard
+Raman Ecommerce Sales Dashboard-Created an interactive Power BI dashboard to compare sales,profit,and customer trends of Raman Ecommerce. The dashboard emphasizes major KPIs (Total Sales, Profit, AOV), pinpoints top states, categories, and customers, and maps payment mode distribution and month-wise profit trends. Showcased skills in data cleaning, DAX, and data storytelling to provide actionable insights for business decision-making.
